@@ -8,5 +8,10 @@ A Simple  App which uses Draggable layout to drag and drop an elements.
 - Finally the Draggable items layout.
 
 # UI
+- Image
+![alt text](https://github.com/gagan1994/flutter_dragable_home/blob/main/draggable_image.jpeg)
 
-![alt text](https://p.bigstockphoto.com/GeFvQkBbSLaMdpKXF1Zv_bigstock-Aerial-View-Of-Blue-Lakes-And--227291596.jpg)
+- Video
+ 
+ Download  and watch the [`Video`](https://github.com/gagan1994/flutter_dragable_home/blob/main/dragable_vdeo.mp4) for more 
+
