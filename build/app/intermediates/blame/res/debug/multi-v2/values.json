@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/gaganpatil/Documents/flutter_explore/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/gaganpatil/Desktop/Flutter/flutter_dragable_home/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/gaganpatil/Documents/flutter_explore/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/gaganpatil/Desktop/Flutter/flutter_dragable_home/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
